@@ -4,6 +4,7 @@ class Person {
   public lastName: string;
   private _fullName: string;
   private productCount: number;
+  private wishList: any;
 
   constructor (firstName: string, lastName: string) {
     this.firstName = firstName;
