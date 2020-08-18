@@ -12,7 +12,7 @@
 ## Git vs (Traditional) TFS
 
 * Git is a Distributed Version Control System.
-* TFS (tratitional TFS, not the new Git-based TFS) is Centralized Version Control System.
+* TFS (traditional TFS, not the new Git-based TFS) is Centralized Version Control System.
 
 # Required Software
 
