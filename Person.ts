@@ -9,6 +9,6 @@ class Person {
   }
 
   get fullName(): string {
-    return `${this.firstName} ${this.lastName}`;
+    return `"${this.firstName} ${this.lastName}"`;
   }
 }
